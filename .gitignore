@@ -1,0 +1,13 @@
+.vscode/**
+.vscode-test/**
+# src/**
+# src/test*
+.yarnrc
+vsc-extension-quickstart.md
+**/*.map
+# **/*.ts
+*.vsix
+node_modules**
+
+*.js
+out*
